@@ -19,3 +19,5 @@ After the process is complete, safely eject the USB drive and reboot your comput
 Set the USB drive as the boot device in your system BIOS or UEFI settings.
 
 Restart the system and check if it boots from the USB drive.
+
+# https://www.wikihow.com/Make-a-USB-Bootable
